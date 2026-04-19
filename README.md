@@ -25,7 +25,7 @@ BrewMaster is more than just a shop; it's an interactive platform where users ca
 ## ⚙️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/BrewMaster-AI-Shop.git](https://github.com/YourUsername/BrewMaster-AI-Shop.git)
+   git clone [https://github.com/sarahalsamadi/Coffee-Bot-Desktop-App.git](https://github.com/sarahalsamadi/Coffee-Bot-Desktop-App.git)
 
 2. **Install required dependencies:**
    ```bash
